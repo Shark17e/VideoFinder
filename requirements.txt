@@ -1,0 +1,5 @@
+yt-dlp>=2026.08.19
+ttkbootstrap>=2.2
+ddgs>=9.16
+curl_cffi>=0.10,<0.17
+python-mpv
